@@ -169,19 +169,105 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="masterking32--masterdnsvpn"></div>
+
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_Linux-Legacy_AMD64.tar.gz` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_AMD64.tar.gz) |
+| `MasterDnsVPN_Client_Linux-Legacy_AMD64.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_AMD64.zip) |
+| `MasterDnsVPN_Client_Linux-Legacy_ARM64.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_Linux-Legacy_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_ARM64.zip) |
+| `MasterDnsVPN_Client_Linux_AMD64.tar.gz` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_AMD64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_AMD64.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_AMD64.zip) |
+| `MasterDnsVPN_Client_Linux_ARM64.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARM64.zip) |
+| `MasterDnsVPN_Client_Linux_ARMV5.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV5.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARMV5.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV5.zip) |
+| `MasterDnsVPN_Client_Linux_ARMV6.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV6.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARMV6.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV6.zip) |
+| `MasterDnsVPN_Client_Linux_ARMV7.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Client_Linux_ARMV7.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_ARMV7.zip) |
+| `MasterDnsVPN_Client_Linux_MIPS.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPS.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS.zip) |
+| `MasterDnsVPN_Client_Linux_MIPS64.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPS64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64.zip) |
+| `MasterDnsVPN_Client_Linux_MIPS64LE.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64LE.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPS64LE.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPS64LE.zip) |
+| `MasterDnsVPN_Client_Linux_MIPSLE.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPSLE.tar.gz) |
+| `MasterDnsVPN_Client_Linux_MIPSLE.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_MIPSLE.zip) |
+| `MasterDnsVPN_Client_Linux_RISCV64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_RISCV64.tar.gz) |
+| `MasterDnsVPN_Client_Linux_RISCV64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_RISCV64.zip) |
+| `MasterDnsVPN_Client_Linux_X86.tar.gz` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_X86.tar.gz) |
+| `MasterDnsVPN_Client_Linux_X86.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux_X86.zip) |
+| `MasterDnsVPN_Client_MacOS_AMD64.tar.gz` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.tar.gz) |
+| `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
+| `MasterDnsVPN_Client_MacOS_ARM64.tar.gz` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_MacOS_ARM64.zip` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_ARM64.zip) |
+| `MasterDnsVPN_Client_Termux_ARM64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_Termux_ARM64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.zip) |
+| `MasterDnsVPN_Client_Termux_ARMV7.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Client_Termux_ARMV7.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARMV7.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_ARM64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_ARM64.zip) |
+| `MasterDnsVPN_Client_Windows_X86.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_X86.zip) |
+| `MasterDnsVPN_Server_Linux-Legacy_AMD64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_AMD64.tar.gz) |
+| `MasterDnsVPN_Server_Linux-Legacy_AMD64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_AMD64.zip) |
+| `MasterDnsVPN_Server_Linux-Legacy_ARM64.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_Linux-Legacy_ARM64.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux-Legacy_ARM64.zip) |
+| `MasterDnsVPN_Server_Linux_AMD64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_AMD64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_AMD64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_AMD64.zip) |
+| `MasterDnsVPN_Server_Linux_ARM64.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARM64.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARM64.zip) |
+| `MasterDnsVPN_Server_Linux_ARMV5.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV5.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARMV5.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV5.zip) |
+| `MasterDnsVPN_Server_Linux_ARMV6.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV6.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARMV6.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV6.zip) |
+| `MasterDnsVPN_Server_Linux_ARMV7.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Server_Linux_ARMV7.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_ARMV7.zip) |
+| `MasterDnsVPN_Server_Linux_MIPS.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPS.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS.zip) |
+| `MasterDnsVPN_Server_Linux_MIPS64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPS64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64.zip) |
+| `MasterDnsVPN_Server_Linux_MIPS64LE.tar.gz` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64LE.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPS64LE.zip` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPS64LE.zip) |
+| `MasterDnsVPN_Server_Linux_MIPSLE.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPSLE.tar.gz) |
+| `MasterDnsVPN_Server_Linux_MIPSLE.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_MIPSLE.zip) |
+| `MasterDnsVPN_Server_Linux_RISCV64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_RISCV64.tar.gz) |
+| `MasterDnsVPN_Server_Linux_RISCV64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_RISCV64.zip) |
+| `MasterDnsVPN_Server_Linux_X86.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_X86.tar.gz) |
+| `MasterDnsVPN_Server_Linux_X86.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Linux_X86.zip) |
+| `MasterDnsVPN_Server_MacOS_AMD64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_AMD64.tar.gz) |
+| `MasterDnsVPN_Server_MacOS_AMD64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_AMD64.zip) |
+| `MasterDnsVPN_Server_MacOS_ARM64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_MacOS_ARM64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_MacOS_ARM64.zip) |
+| `MasterDnsVPN_Server_Termux_ARM64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARM64.tar.gz) |
+| `MasterDnsVPN_Server_Termux_ARM64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARM64.zip) |
+| `MasterDnsVPN_Server_Termux_ARMV7.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARMV7.tar.gz) |
+| `MasterDnsVPN_Server_Termux_ARMV7.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Termux_ARMV7.zip) |
+| `MasterDnsVPN_Server_Windows_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_AMD64.zip) |
+| `MasterDnsVPN_Server_Windows_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_ARM64.zip) |
+| `MasterDnsVPN_Server_Windows_X86.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_X86.zip) |
+| `SHA256SUMS.txt` | 10 KB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/SHA256SUMS.txt) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.13</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.13)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.13.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.13.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.13.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.13.apk) |
-| `mhrv-rs-android-universal-v1.9.13.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.13.apk) |
-| `mhrv-rs-android-x86-v1.9.13.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.13.apk) |
-| `mhrv-rs-android-x86_64-v1.9.13.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.13.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.14.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.14.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.14.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.14.apk) |
+| `mhrv-rs-android-universal-v1.9.14.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.14.apk) |
+| `mhrv-rs-android-x86-v1.9.14.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.14.apk) |
+| `mhrv-rs-android-x86_64-v1.9.14.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.14.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/farzad-prime/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
