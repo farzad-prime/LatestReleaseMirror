@@ -5,3 +5,4 @@
 
 IRNova/Nova-Proxy-App
 therealaleph/MasterHttpRelayVPN-RUST
+masterking32/MasterDnsVPN
